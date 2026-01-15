@@ -1,0 +1,26 @@
+# ============================================
+# Arquivos de Sistema (OS)
+# ============================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ============================================
+# Arquivos Temporários de Editores/Escritório
+# ============================================
+~$*.doc*
+~$*.xls*
+
+# Configurações de IDE (VS Code, etc)
+.vscode/
+.idea/
+
+# ============================================
+# Logs e Temporários
+# ============================================
+*.log
+*.tmp
